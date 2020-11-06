@@ -1,0 +1,11 @@
+E:\flyjets_api\FlyJetsV2.Data\bin\Debug\netcoreapp2.2\FlyJetsV2.Data.deps.json
+E:\flyjets_api\FlyJetsV2.Data\bin\Debug\netcoreapp2.2\FlyJetsV2.Data.dll
+E:\flyjets_api\FlyJetsV2.Data\bin\Debug\netcoreapp2.2\FlyJetsV2.Data.pdb
+E:\flyjets_api\FlyJetsV2.Data\obj\Debug\netcoreapp2.2\FlyJetsV2.Data.AssemblyInfoInputs.cache
+E:\flyjets_api\FlyJetsV2.Data\obj\Debug\netcoreapp2.2\FlyJetsV2.Data.AssemblyInfo.cs
+E:\flyjets_api\FlyJetsV2.Data\obj\Debug\netcoreapp2.2\FlyJetsV2.Data.dll
+E:\flyjets_api\FlyJetsV2.Data\obj\Debug\netcoreapp2.2\FlyJetsV2.Data.pdb
+E:\flyjets_api\FlyJetsV2.Data\bin\Debug\netcoreapp2.2\FlyJetsV2.Data.runtimeconfig.json
+E:\flyjets_api\FlyJetsV2.Data\bin\Debug\netcoreapp2.2\FlyJetsV2.Data.runtimeconfig.dev.json
+E:\flyjets_api\FlyJetsV2.Data\obj\Debug\netcoreapp2.2\FlyJetsV2.Data.csproj.CoreCompileInputs.cache
+E:\flyjets_api\FlyJetsV2.Data\obj\Debug\netcoreapp2.2\FlyJetsV2.Data.genruntimeconfig.cache

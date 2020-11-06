@@ -1,0 +1,6 @@
+E:\flyjets_api\FlyJetsV2.WebApi\obj\Debug\netcoreapp3.1\FlyJetsV2.WebApi.csprojAssemblyReference.cache
+E:\flyjets_api\FlyJetsV2.WebApi\obj\Debug\netcoreapp3.1\FlyJetsV2.WebApi.csproj.CoreCompileInputs.cache
+E:\flyjets_api\FlyJetsV2.WebApi\obj\Debug\netcoreapp3.1\FlyJetsV2.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\flyjets_api\FlyJetsV2.WebApi\obj\Debug\netcoreapp3.1\FlyJetsV2.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\flyjets_api\FlyJetsV2.WebApi\obj\Debug\netcoreapp3.1\FlyJetsV2.WebApi.AssemblyInfoInputs.cache
+E:\flyjets_api\FlyJetsV2.WebApi\obj\Debug\netcoreapp3.1\FlyJetsV2.WebApi.AssemblyInfo.cs

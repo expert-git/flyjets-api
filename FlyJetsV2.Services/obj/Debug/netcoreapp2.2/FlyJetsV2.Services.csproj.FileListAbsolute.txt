@@ -1,0 +1,15 @@
+E:\flyjets_api\FlyJetsV2.Services\bin\Debug\netcoreapp2.2\FlyJetsV2.Services.deps.json
+E:\flyjets_api\FlyJetsV2.Services\bin\Debug\netcoreapp2.2\FlyJetsV2.Services.runtimeconfig.json
+E:\flyjets_api\FlyJetsV2.Services\bin\Debug\netcoreapp2.2\FlyJetsV2.Services.runtimeconfig.dev.json
+E:\flyjets_api\FlyJetsV2.Services\bin\Debug\netcoreapp2.2\FlyJetsV2.Services.dll
+E:\flyjets_api\FlyJetsV2.Services\bin\Debug\netcoreapp2.2\FlyJetsV2.Services.pdb
+E:\flyjets_api\FlyJetsV2.Services\bin\Debug\netcoreapp2.2\FlyJetsV2.Data.dll
+E:\flyjets_api\FlyJetsV2.Services\bin\Debug\netcoreapp2.2\FlyJetsV2.Data.pdb
+E:\flyjets_api\FlyJetsV2.Services\obj\Debug\netcoreapp2.2\FlyJetsV2.Services.csprojAssemblyReference.cache
+E:\flyjets_api\FlyJetsV2.Services\obj\Debug\netcoreapp2.2\FlyJetsV2.Services.csproj.CoreCompileInputs.cache
+E:\flyjets_api\FlyJetsV2.Services\obj\Debug\netcoreapp2.2\FlyJetsV2.Services.AssemblyInfoInputs.cache
+E:\flyjets_api\FlyJetsV2.Services\obj\Debug\netcoreapp2.2\FlyJetsV2.Services.AssemblyInfo.cs
+E:\flyjets_api\FlyJetsV2.Services\obj\Debug\netcoreapp2.2\FlyJetsV2.Services.csproj.CopyComplete
+E:\flyjets_api\FlyJetsV2.Services\obj\Debug\netcoreapp2.2\FlyJetsV2.Services.dll
+E:\flyjets_api\FlyJetsV2.Services\obj\Debug\netcoreapp2.2\FlyJetsV2.Services.pdb
+E:\flyjets_api\FlyJetsV2.Services\obj\Debug\netcoreapp2.2\FlyJetsV2.Services.genruntimeconfig.cache
